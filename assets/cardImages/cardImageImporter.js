@@ -1,0 +1,10 @@
+export const card0 = require('../cardImages/card0.jpg');
+export const card1 = require('../cardImages/card1.jpg');
+export const card2 = require('../cardImages/card2.jpg');
+export const card3 = require('../cardImages/card3.jpg');
+export const card4 = require('../cardImages/card4.jpg');
+export const card5 = require('../cardImages/card5.jpg');
+export const card6 = require('../cardImages/card6.jpg');
+export const card7 = require('../cardImages/card7.jpg');
+export const back = require('../cardImages/back.png');
+export const matched = require('../cardImages/matched.png');
